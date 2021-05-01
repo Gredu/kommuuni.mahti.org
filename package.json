@@ -1,0 +1,5 @@
+{
+  "devDependencies": {
+    "vuepress-plugin-git-log": "^1.0.1"
+  }
+}
