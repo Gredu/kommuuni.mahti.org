@@ -1,10 +1,6 @@
 ---
 home: true
 heroImage: /images/kommuunin-joulu.jpg
-<!-- heroText: Kontulan Kommuuni -->
-<!-- tagline: Hero subtitle -->
-<!-- actionText: Säännöt → -->
-<!-- actionLink: /saannot/ -->
 features:
 - title: Säännöt
   details: Reilut ja selkeät säännöt jokaiselle. Vastuu ja vaikuttaminen ovat tasapainossa. Jos joku rikkoo sääntöjä, tulee kiukkuinen vuokranantaja potkimaan pellolle.
