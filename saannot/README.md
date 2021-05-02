@@ -22,10 +22,6 @@ Mikä ei ole erikseen kielletty, ei tarkoita että sitä saisi tehdä. Käyttäk
 **Yleisillä tiloilla ei saa varastoida tavaraa.** Eteinen voi toimia väliaikaisena varastona.
 :::
 
-::: tip Todo
-Mikä on komerovaraston tilanne muuton jälkeen? Jaetaan kaikkien kesken tasapuolisesti, mutta ei toimi enää yleisenä lainauspaikkana? Tai tehdään joku tila, missä on kaikkien tavarat. Varastot eivät ainakaan enää ole kenenkään käytössä! Varastoja voi vuokrata.
-:::
-
 ## Keittiö
 
 ::: danger Sääntö
@@ -38,10 +34,6 @@ Mikä on komerovaraston tilanne muuton jälkeen? Jaetaan kaikkien kesken tasapuo
 
 ::: danger Sääntö
 **Keittiön pöydälle jätetty eines on kaikkien käytettävissä tai kulutettavissa.** 
-:::
-
-::: tip Todo
-Entä ruokarauha? Luovutaanko nimimerkistä FFA?
 :::
 
 ## Bio
@@ -60,10 +52,4 @@ Jos sinistä nappulaa siirtäessä tulee vastaan keltainen nappula, hyppää sen
 
 ::: warning Ohjeistus
 **Biopussin koko on 20 litraa.**
-:::
-
-## Ekologisuus
-
-::: tip
-Onko ekologisuus vaatimuksia lainkaan?
 :::
