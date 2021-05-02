@@ -23,5 +23,5 @@ Ohjeistukset ovat sääntöjä lievempiä. Ohjeistuksen rikkomisesta ei seuraa s
 ## Hygienia
 
 ::: warning Ohjeistus
-**Pöntön kansi on pidettävä kiinni pönttöä vedettäessä. Kädet on pestävä tarpeitteinsa jälkeen.**
+**Pöntön kansi on pidettävä kiinni pönttöä vedettäessä. Kädet on pestävä tarpeittensa jälkeen.**
 :::
