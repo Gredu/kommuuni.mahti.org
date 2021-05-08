@@ -15,6 +15,7 @@ module.exports = {
         '',
         'viestinta',
         'ohjeistukset',
+        'vastuualueet',
       ],
       '/sopimukset/': [
         '',
@@ -24,21 +25,25 @@ module.exports = {
       ],
       '/kokoukset/': [
         '',
+        '06-2021'
       ],
       '/muutosloki/': [
         '',
       ],
     }
   },
-  plugins: [
-    [
-      'vuepress-plugin-git-log',
-      {
-        additionalArgs: '--no-merge',
-        onlyFirstAndLastCommit: true,
-      },
-    ],
+
+  head: [
+    ['script', {src: 'https://cdn.jsdelivr.net/npm/chart.js@3.2.1/dist/chart.min.js'}],
   ],
+
+  plugins: {
+    'git-log': {
+      additionalProps: {
+        subject: '%s',
+        authorEmail: '%ae',
+      },
+    },
+
+  }
 }
-
-
