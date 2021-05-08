@@ -1,3 +1,7 @@
 # Kokoukset
 
-Kokousasiakirja sisältää sekä kokouskutsun, että pöytäkirjan. Kokouksia pidetään, kun on tarve.
+Kokousasiakirja sisältää kokouskutsun, esityslistan liitteineen, sekä pöytäkirjan kokouksen jälkeen. Kokouksia pidetään, kun on tarve.
+
+::: warning Ohjeistus
+**Kokoustarjoiluun voidaan käyttää Kommuunipankin varoja.**
+:::

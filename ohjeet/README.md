@@ -17,11 +17,11 @@ Kommuunissa tämä tarkoittaa sitä, että heti pesun jälkeen valurautapannu on
 
 ## Pyykkien pesu
 
-Tärkeimmät pesuohjelmat pesukoneessa ovat tekstiilipesu 40 asteessa ja ekopesu 60 asteessa. 60 asteessa pestään yleensä lakanat ja 40 asteessa arkivaatteet. Vihreä suihkumatto pestään 40 asteessa.
+Tärkeimmät pesuohjelmat pesukoneessa ovat tekstiilipesu 40 asteessa ja ekopesu 60 asteessa. 60 asteessa pestään yleensä lakanat ja 40 asteessa arkivaatteet.
 
 ![Pesukoneen ohjelmat](/images/washing-machine.jpg)
 
-Kellarissa sijaitsevassa pesuhuoneessa on kaksi pesukonetta. Näitä voi myös käyttää ilmaiseksi. Ohjeet näiden käyttöön löytyy paikanpäältä.
+Kellarissa sijaitsevassa pesuhuoneessa on kaksi pesukonetta. Näitä voi myös käyttää ilmaiseksi. Ohjeet pesukoneiden käyttöön löytyy paikanpäältä.
 
 ### Pesupulveri
 
@@ -31,14 +31,28 @@ Kellarissa sijaitsevassa pesuhuoneessa on kaksi pesukonetta. Näitä voi myös k
 
 ### Pyykkien kuivaaminen
 
-Kuivaushuoneet sijaitsevat kellarissa. Kuivaushuoneet 27 ja 32 vaativat varauksen ennen käyttöä. Varauslista löytyy pesutuvasta, joka on kuivaushuoneiden 27 ja 32 välissä. Pesutuvassa on myös kuivausrumpu, jota voi käyttää ilmaiseksi ja ilman ajanvarausta.
-
-Neljäs kuivaushuone sijaitsee kellarikäytävän päässä. Tämän huoneen varauslista löytyy itse kuivaushuoneesta.
+Kuivaushuoneet sijaitsevat kellarissa ja niiden käyttö vaatii varauksen. Huoneiden numerot ovat 77, 35, 27 ja 3. Huoneiden 77 ja 3 varauslista löytyy itse kuivaushuoneesta, muiden varauslista löytyy pesutuvasta, joka on kellarikäytävän keskikohdalla. Pesutuvassa on kuivausrumpu, linkouskone ja pesukoneet, joita voi käyttää ilmaiseksi. Pesukoneiden käyttö vaatii ajanvarauksen.
 
 Kuivaushuoneet ovat olleet lähes aina vapaita, joten yleensä ei ole ollut tarvetta varata etukäteen. Muista kuitenkin varata kuivaushuone, vaikka aikasi alkaakin siitä hetkestä, kun kirjaat varauslistaan.
 
 ### Pesukoneen käyttö ekologisesti
 
 ::: warning Ohjeistus
-**Pese pyykkiä täysinä koneellisina.** Valitse oikea pesuohjelma.
+**Pese pyykkiä täysinä koneellisina ja valitse oikea pesuohjelma.**
+:::
+
+## Biovuorot
+
+Biovuorolista on pakastimen ovessa. Biovuoron osoittaa sininen nappula. Bion vietyäsi siirrä sininen nappula oikealle pois oman nimesi kohdalta. Jos seuraavalla henkilöllä on punainen nappula, poista se ja hyppää hänen yli seuraavaan.
+
+Punainen nappula on merkki siitä, että bion on vienyt ei-vuorossa ollut asukas. Jos viet bion kun ei ole vuorosi, laita punainen nappula nimesi kohdalle, jolloin seuraavalla vuorollasi sinun ei tarvitse viedä bioo. Punaisia nappuloita saa haalia niin paljon kuin haluaa.
+
+Jos bioastia on likaantunut, pese se.
+
+Jos sinistä nappulaa siirtäessä tulee vastaan keltainen nappula, hyppää sen yli siirtämättä pois keltaista nappulaa. Keltainen nappula on merkki siitä, että henkilö on vapautettu biovuorosta. Keltaisen nappulan tarkoitus on huomata ne henkilöt, jotka ovat poissa kommuunissa, eivätkä siksi fyysisesti pysty viemään bioastiaa. Jos tiedät olevasi poissa Kommuunista sen verran kauan, että sininen nappula saattaa osua kohdallesi, laita itsellesi keltainen nappula. Ota nappula välittömästä pois, kun palaat!
+
+Keltaisen nappulan sijasta voidaan myös käyttää post-it-lappuja.
+
+::: warning Ohjeistus
+**Biopussin koko on 20 litraa.**
 :::
