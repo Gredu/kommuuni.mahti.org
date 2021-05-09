@@ -2,9 +2,6 @@
   "scripts": {
     "docs:build": "vuepress build"
   },
-  "devDependencies": {
-    "vuepress-plugin-git-log": "^1.0.1"
-  },
   "dependencies": {
     "vuepress": "^1.8.2",
     "vuepress-plugin-chart": "^0.1.7"
