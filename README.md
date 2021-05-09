@@ -1,6 +1,6 @@
 ---
 home: true
-heroImage: /images/kommuunin-joulu.jpg
+heroImage: /images/kontulan-kommuuni.jpg
 ---
 
 <!-- features: -->
