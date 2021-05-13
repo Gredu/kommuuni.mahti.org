@@ -7,7 +7,6 @@ module.exports = {
       { text: 'Sopimukset', link: '/sopimukset/' },
       { text: 'Ohjeet', link: '/ohjeet/' },
       { text: 'Kokoukset', link: '/kokoukset/' },
-      { text: 'Muutosloki', link: '/muutosloki/' },
     ],
     // sidebar: 'auto'
     sidebar: {
@@ -26,9 +25,6 @@ module.exports = {
       '/kokoukset/': [
         '',
         '06-2021'
-      ],
-      '/muutosloki/': [
-        '',
       ],
     }
   },
