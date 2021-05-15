@@ -61,3 +61,15 @@ Vastuualueisiin liittyy paljon sääntöjä ja ohjeita, jonka takia niistä on [
 :::
 
 [Ohjeet biovuorolistan käyttöön.](../ohjeet/README.md#Biovuorot)
+
+## Ekologisuus, veden ja sähkön kulutus
+
+::: danger Sääntö
+**Kulutetaan sähköä kohtuullisesti.** Ei kryptovaluuttafarmeja, pakastinta tai jääkaappia omaan huoneeseen, tai muutenkaan mitään laitteita, jotka kuluttavat sähköä liikaa. Kommuunin sähkölaskun on oltava vuositasolla alle 900 euroa.
+:::
+
+::: danger Sääntö
+**Vettä on kulutettava kohtuullisesti.** Vuosittainen vedenkulutus on oltava alle 2000 euroa.
+:::
+
+Tällä hetkellä vuokranantaja maksaa veden ja sähkön. Jos asukkaat eivät pysty käyttämään sähköä ja vettä kohtuullisesti, voidaan pohtia laskujen siirtämistä asukkaille.
