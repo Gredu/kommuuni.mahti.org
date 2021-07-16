@@ -1,7 +1,7 @@
 # Viestintä
 
 ::: danger Sääntö
-**Virallinen viestintäkanava on WhatsAppissa oleva Kontulan Kommuunin ryhmä.** Ryhmän viestejä oletetaan luettavan vähintään parin päivän sisällä viestin jättämisen jälkeen. Sääntömuutoksia ja huomautuksia laitetaan tähän ryhmään.
+**Virallinen viestintäkanava on Telegrammissa oleva Kontulan Kommuunin ryhmä.** Ryhmän viestejä oletetaan luettavan vähintään parin päivän sisällä viestin jättämisen jälkeen. Sääntömuutoksia ja huomautuksia laitetaan tähän ryhmään.
 :::
 
 Kommuunilaiset saavat itse päättää tavasta viestittää, kunhan kyseessä on yhdestä viestintäkanavasta. Kaikkien on myös osattava käyttää kyseistä viesintäkanavaa ja opettelun tulisi olla helppoa.
