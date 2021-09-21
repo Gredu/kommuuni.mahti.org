@@ -1,40 +1,60 @@
 # Vastuualueet
 
 ::: danger Sääntö
-**Kommuunissa on yhteensä kuusi vastuualuetta, eli kaikille asukkaille on oma vastuualueensa.**
+**Jokainen Kommuunissa asuva osallistuu Kommuunin siivoukseen ja ylläpitoon.**
 :::
 
-  - 2 henkilöä hoitaa vessat ja suihkuhuoneen - vessavastaava
-  - 2 henkilöä hoitaa keittiön, eteisen, käytävät ja komerovaraston - yleisvastaava
-  - 1 henkilö hoitaa Kommuunin taloutta - talousvastaava
-  - 1 henkilö hoitaa Kommuunin yleiset pyykit - pyykkivastaava
+Roolit:
 
-Vessavastaavat sopivat yhdessä miten vessoja hoidetaan. Yleisvastaavat tekevät samoin.
+  - 2 henkilöä hoitavat vessan ja suihkuhuoneen - märkätilojen vastaavat
+  - 2 henkilöä hoitavat keittiön, eteisen, käytävät ja komerovaraston - kuivatilojen vastaavat
+  - 2 henkilöä hoitavat hallinnollisia ja ylimääräisiä tehtäviä
 
-## Vessa- ja yleisvastaava
-
-::: warning Ohjeistus
-**Vessavastaavien ja yleisvastaavien kannattaa sopia siivouksen siten, että se on rutiininomaista ja viikottaista.** Ei siten, että *siivotaan, kun näyttää likaiselta*, koska tällöin voittavat ne, joiden siisteysvaatimus on matala.
-:::
-
-## Talousvastaava
-
-::: warning Ohjeistus
-**Talousvastaava hankkii Kommuuniin kaiken tarpeellisen yhteisiin asioihin.** Kommuuni itse sopii, mikä on *tarpeellinen*.
-:::
+## Märkä- ja kuivatilojen vastaavat
 
 ::: danger Sääntö
-**Talousvastaava hoitaa Kommuunipankkia ja voi pyytää muilta Kommuunin asukkailta rahaa Kommuunipankkiin. Jokainen asukas on velvollinen maksamaan Kommuunipankkiin.** Talousvastaava luonnollisesti itsekin osallistuu kustannuksiin. Kustannukset jaetaan tasan.
+**Rutiinisiivous joka toinen viikko maanantaisin.**
+:::
+
+Ohjeet rutiinisiivoukseen kirjoitetaan myöhemmin. Näihin kuitenkin opastetaan.
+
+## Hallinnolliset ja ylimääräiset tehtävät
+
+Tässä roolissa olevat henkilöt ottavat lopullisen vastuun Kommuunin siisteydestä, ylläpidosta ja rauhasta. He valvovat sääntöjen noudattamista. He myös paikkaavat muiden asukkaiden virheet, esimerkiksi siivoamalla muiden sotkuja tai tiskaamalla unohdettuja tiskejä. Hallinnollisessa tehtävässä oleva päättää itse, huomauttaako vai varoittaako hän muita henkilöitä virheistä. Vaihtoehtoisesti hän voi siivota muiden sotkuja tai tehdä muille kuuluvat työt.
+
+Rutiinisiivouksesta poikkeavat siivoukset kuuluvat myös hallinnollisia asioita hoitavalle. Näitä voivat olla esimerkiksi:
+
+  - jääkaapin siivoaminen
+  - mikron siivoaminen
+  - uunin siivoaminen
+  - suihkuhuoneiden kaakeleiden putsaaminen
+  - isojen asioiden korjaaminen
+  - uusien laitteiden hankkiminen (vuokranantajan rahoilla)
+  - intenvaariot esimerkiksi takeista, kengistä, suihkuvälineistä jne.
+  - varaston järjestäminen
+
+jne.
+
+::: danger Sääntö
+**Hallinnollisiin tehtäviin kuuluu Kommuunipankin hoitaminen.**
 :::
 
 Kommuunipankki on sopimus. Tästä tarkemmin [sopimuksien sivulta](../sopimukset/README.md).
 
-::: warning Ohjeistus
-**Talousvastaava pitää kirjaa ostoksistaan.** Tähän kirjanpitoon on kaikkien asukkaiden päästävä helposti käsiksi.
-:::
-
-## Pyykkivastaava
+## Muita Kommuunin tehtäviä
 
 ::: warning Ohjeistus
-**Pyykkivastaava pyykkää kaikki yleiset pyykit ja viikkaa ne takaisin komerovarastoon.** Pyykkien vaihto olisi hyvä tapahtua kerran viikossa.
+**Erikseen mainitsemattomat tehtävät ovat yhteisiä.**
 :::
+
+Esimerkkejä yhteisistä tehtävistä:
+
+  - roskiksien ja kierrätettävien pisteiden tyhjentäminen
+  - vessapaperien hyllyttäminen
+  - käsisaippuanesteen täyttäminen
+  - pienten asioiden korjaaminen
+  - yleisten pyykkien pesu
+  - yhteisten tavaroiden ostaminen (Kommuunipankkia käyttäen)
+  - astiakaapin tyhjentäminen
+
+jne.
