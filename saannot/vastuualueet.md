@@ -25,7 +25,6 @@ Tässä roolissa olevat henkilöt ottavat lopullisen vastuun Kommuunin siisteyde
 Rutiinisiivouksesta poikkeavat siivoukset kuuluvat myös hallinnollisia asioita hoitavalle. Näitä voivat olla esimerkiksi:
 
   - jääkaapin siivoaminen
-  - mikron siivoaminen
   - uunin siivoaminen
   - suihkuhuoneiden kaakeleiden putsaaminen
   - isojen asioiden korjaaminen
