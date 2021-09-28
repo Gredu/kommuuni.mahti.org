@@ -17,10 +17,11 @@ module.exports = {
         'vastuualueet',
       ],
       '/sopimukset/': [
-        '',
       ],
       '/ohjeet/': [
         '',
+        'markatilojen-siivous',
+        'kuivatilojen-siivous',
       ],
       '/kokoukset/': [
         '',

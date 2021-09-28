@@ -1,4 +1,4 @@
-# Ohjeita
+# Yleisiä ohjeita
 
 Ohjeita arjen askareisiin ja ongelmiin.
 
