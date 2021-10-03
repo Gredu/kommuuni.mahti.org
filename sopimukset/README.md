@@ -12,9 +12,27 @@ Kirjanpito löytyy [Googlesta](https://docs.google.com/spreadsheets/d/1ENhYNFARd
 **Kommuunipankkiin voi tehdä lahjoituksia.** Tämä on hyvä tapa tasata tilit, jos omatunto sanoo, että on käyttänyt Kommuunin tuotteita enemmän kuin muut.
 :::
 
-## Kommuunille ja arkielämälle tärkeät kodinkoneet ja laitteet
+Kommuunipankin varoilla ostetaan ainakin seuraavat tavarat:
 
-**Osakkuuksista luovutaan! Asukkaille maksetaan kesäkuun 2021 alussa 57,81 € takaisin pakastimesta ja tämä sivu poistetaan. Jatkossa vuokranantaja ostaa kaikki.**
+  - folio
+  - käsisaippua
+  - laastarit
+  - tiskiaine
+  - uunipaperi / voipaperi
+  - vessapaperi
+  - yleiset pesuaineet
+  - yleisten tilojen lamput
+
+Ruokaan tai eineksiin liittyvät ostokset:
+
+  - pippuri
+  - suola
+
+::: warning Ohjeistus
+**Asukkaat voivat sopia itse, mitä asioita ostetaan yhteisesti Kommuunipankin varoilla**
+:::
+
+## Kommuunille ja arkielämälle tärkeät kodinkoneet ja laitteet
 
 Kun arkielämälle tärkeä laite hajoaa, vuokranantaja ostaa uuden tilalle. Arkielämälle tärkeiksi laitteiksi lasketaan seuraavat laitteet:
 
