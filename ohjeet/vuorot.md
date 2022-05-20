@@ -9,8 +9,8 @@ Kommuunipyykeillä ja kuivauskaapilla eivät vuorot ole priorisoituja. Tehtävä
 Jos kaikilla on mustia nappuloita, niitä voidaan poistaa tasaisesti kaikilta työtehtävän sisällä.
 
 ::: warning Ohjeistus
-  - mustinappuloita voidaan poistaa epätasaisesti, jos joku asukas on selkeästi ollut poissa kommuunista pidempää kuin muut
-  - mustia nappuloita voidaan antaa myös toiselle tasapoistojen yhteydessä työtehtävän sisällä, jos asukkaat sitä haluavat ovat siitä sopineet
+  - mustia nappuloita voidaan poistaa epätasaisesti, jos joku asukas on selkeästi ollut poissa kommuunista pidempää kuin muut
+  - mustia nappuloita voidaan antaa myös toiselle tasapoistojen yhteydessä työtehtävän sisällä, jos asukkaat sitä ovat siitä sopineet
 :::
 
 
@@ -33,6 +33,10 @@ Jos keltaista nappulaa siirtäessä tulee vastaan punainen nappula, hyppää sen
 Kommuunipyykkien tehtävä on jaettu kolmeen osaan. Jokainen osa tuo yhden mustan nappulan. Eli jos pyykit pesee, kuivattaa ja taittaa takaisin varastoon, on tämä jo kolmen mustan nappulan arvoinen.
 
 Eli jokainen osa on yhden mustan nappulan arvoinen.
+
+::: warning Ohjeistus
+Jos omien pyykkien pesussa on tilaa, kannattaa täydentää kommuunipyykeillä. Tällöin tulee vähemmän kommuunipyykkiin liittyviä tehtäviä.
+:::
 
 #### 1. Pyykkien pesu
 
