@@ -54,4 +54,6 @@ Pyykit napataan eteisestä ja taitellaan takaisin varastoon.
 
 Kuivauskaapin tyhjentäminen kokonaan tuottaa yhden mustan nappulan. Ei ole väliä, miten täysi on kuivauskaappi ollut, kunhan siellä on ollut vähintään yksi astia.
 
+Mustaa nappulaa ei saa ottaa osittaisesta kuivauskaapin tyhjentämisestä.
+
 Kuivauskaappia ei saa tyhjentää, jos siellä on vielä märkiä astioita.
