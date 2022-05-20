@@ -21,8 +21,9 @@ module.exports = {
       ],
       '/ohjeet/': [
         '',
-        'markatilojen-siivous',
-        'kuivatilojen-siivous',
+        'vuorot',
+        // 'markatilojen-siivous',
+        // 'kuivatilojen-siivous',
       ],
       '/kokoukset/': [
         '',

@@ -40,19 +40,3 @@ Kuivaushuoneet ovat olleet lähes aina vapaita, joten yleensä ei ole ollut tarv
 ::: warning Ohjeistus
 **Pese pyykkiä täysinä koneellisina ja valitse oikea pesuohjelma.**
 :::
-
-## Biovuorot
-
-Biovuorolista on pakastimen ovessa. Biovuoron osoittaa sininen nappula. Bion vietyäsi siirrä sininen nappula oikealle pois oman nimesi kohdalta. Jos seuraavalla henkilöllä on punainen nappula, poista se ja hyppää hänen yli seuraavaan.
-
-Punainen nappula on merkki siitä, että bion on vienyt ei-vuorossa ollut asukas. Jos viet bion kun ei ole vuorosi, laita punainen nappula nimesi kohdalle, jolloin seuraavalla vuorollasi sinun ei tarvitse viedä bioo. Punaisia nappuloita saa haalia niin paljon kuin haluaa.
-
-Jos bioastia on likaantunut, pese se.
-
-Jos sinistä nappulaa siirtäessä tulee vastaan keltainen nappula, hyppää sen yli siirtämättä pois keltaista nappulaa. Keltainen nappula on merkki siitä, että henkilö on vapautettu biovuorosta. Keltaisen nappulan tarkoitus on huomata ne henkilöt, jotka ovat poissa kommuunissa, eivätkä siksi fyysisesti pysty viemään bioastiaa. Jos tiedät olevasi poissa Kommuunista sen verran kauan, että sininen nappula saattaa osua kohdallesi, laita itsellesi keltainen nappula. Ota nappula välittömästä pois, kun palaat!
-
-Keltaisen nappulan sijasta voidaan myös käyttää post-it-lappuja.
-
-::: warning Ohjeistus
-**Biopussin koko on 20 litraa.**
-:::

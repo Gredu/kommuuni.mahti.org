@@ -54,13 +54,15 @@ Vastuualueisiin liittyy paljon sääntöjä ja ohjeita, jonka takia niistä on [
 **Pöntön on jäätävä siistiksi käytön jälkeen.** Käytä vessaharjaa ja käsisuihkua tarvittaessa.
 :::
 
-## Bio
+## Työ- ja vuorolista
+
+Työ- ja vuorolista ovat bio, kommuunipyykit ja astioiden kuivauskaappi.
 
 ::: danger Sääntö
-**Jokainen asukas noudattaa biovuorolistaa.** Punaisia nappuloita ei saa olla taulussa liikaa.
+**Jokainen asukas noudattaa työlistaa.** Mustia nappuloita ei saa olla taulussa liikaa.
 :::
 
-[Ohjeet biovuorolistan käyttöön.](../ohjeet/README.md#Biovuorot)
+[Ohjeet työlistan käyttöön.](../ohjeet/vuorot.md)
 
 ## Ekologisuus, veden ja sähkön kulutus
 
