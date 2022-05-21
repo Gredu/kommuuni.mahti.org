@@ -37,10 +37,6 @@ Vastuualueisiin liittyy paljon sääntöjä ja ohjeita, jonka takia niistä on [
 :::
 
 ::: danger Sääntö
-**Keittiö on ensisijaisesti ruuan laittoon ja syömistä varten.** Muiden on annettava tilaa.
-:::
-
-::: danger Sääntö
 **Keittiön pöydälle jätetty eines on kaikkien käytettävissä tai kulutettavissa.** 
 :::
 

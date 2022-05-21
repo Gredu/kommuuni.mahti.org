@@ -40,11 +40,13 @@ Jos omien pyykkien pesussa on tilaa, kannattaa täydentää kommuunipyykeillä. 
 
 #### 1. Pyykkien pesu
 
-Pyykit pestään täysinä koneellisina. Pesun jälkeen puhtaat märät pyykit viedään eteiseen. Tämän jälkeen pesijä ilmoittaa asiasta, jos joku haluaisi suorittaa toisen osuuden, eli pyykkien kuivaamisen. Jos kukaan ei samana päivänä tähän pysty, on pesijän tehtävä seuraava osuus.
+Pyykit pestään täysinä koneellisina. Pesun jälkeen puhtaat märät pyykit viedään eteiseen. Tämän jälkeen pesijä ilmoittaa, että seuraavaan vaiheeseen, eli kuivattamiseen tarvitaan tekijä. Jos kukaan ei samana päivänä tähän pysty, on pesijän tehtävä seuraava osuus.
 
 #### 2. Pyykkien kuivaus
 
-Pyykit viedään kuivumaan. Pyykkien kuivuttua ne haetaan ja jätetään eteiseen.
+Pyykit viedään alakertaan kuivumaan. Pyykkien kuivuttua ne haetaan ja jätetään eteiseen.
+
+Pyykkejä ei saa kuivattaa yleisillä tiloilla, mutta niitä saa kuivattaa omassa huoneessa.
 
 #### 3. Pyykkien taittelu takaisin varastoon
 
