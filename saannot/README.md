@@ -10,10 +10,14 @@ Sääntöjen toistuvasta rikkomisesta asukas voidaan potkaista pois Kommuunista.
 
 Mikä ei ole erikseen kielletty ei tarkoita, että sitä saisi tehdä. Käyttäkää omaa oikeustajuntaa kussakin tilanteessa ja tehkää päätös toiset huomioon ottaen.
 
-## Hiljaisuus
+## Hiljaisuus ja järjestys
 
 ::: danger Sääntö
 **Kello kymmenen jälkeen illalla on varottava aiheuttamasta turhaa melua.** Yösuihkuttelu on pidettävä lyhyenä, ovia ei paiskota ja keskustelua yleisillä tiloilla tulisi välttää. Kovaäänisyyttä ja musiikin toistoa on hiljennettävä omissa huoneissa. Pesukone ei saa olla käynnissä kymmenen jälkeen.
+:::
+
+::: danger Sääntö
+**Yleisellä tiloilla ei saa oleskella päihtyneenä**. Kommuuni ei ole jatkopaikka bileille. Kommuunissa arvostamme hyviä elämäntapoja ja arvoja.
 :::
 
 ## Kommuunin ylläpito ja vastuualueet
