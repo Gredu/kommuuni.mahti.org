@@ -40,3 +40,8 @@ Kuivaushuoneet ovat olleet lähes aina vapaita, joten yleensä ei ole ollut tarv
 ::: warning Ohjeistus
 **Pese pyykkiä täysinä koneellisina ja valitse oikea pesuohjelma.**
 :::
+
+## Kommuunipankin tilitys
+
+  - [Kirjaa ostoksesi](https://docs.google.com/spreadsheets/d/1ENhYNFARda3AuRoAyU0aiXNOS3dr70M4JPPfkL_pwBw/edit?usp=sharing), jos sinulla ei ole oikeuksia muokata dokumenttia, pyydä siihen valtuudet (käytä hinnoissa pistettä pilkun sijaan!)
+  - Lähetä Mobile Payllä maksupyyntö Kommuunipankin ylläpitäjälle kuvan kera (Mobile Pay sovelluksessa voi ottaa kuvan)
