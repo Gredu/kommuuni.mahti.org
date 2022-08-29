@@ -68,4 +68,8 @@ Kommuuni lahjoittaa tavaroita pois muuttajalle, mutta vain jos se on sovittu Kom
 
 *Kommuunista katoaa paljon tavaroita yleensä pois lähtijän mukana.*
 
+::: danger Sääntö
+**Poistu Kommmuunin ryhmächatista.** Jos et poistu itse, sinut poistetaan ilman varoitusta.
+:::
+
 Onnea elämällesi ja muista, että Kontulan Kommuunin ovet ovat aina auki sinulle!
