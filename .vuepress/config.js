@@ -22,6 +22,7 @@ module.exports = {
       '/ohjeet/': [
         '',
         'vuorot',
+        'muuttajille',
         // 'markatilojen-siivous',
         // 'kuivatilojen-siivous',
       ],
