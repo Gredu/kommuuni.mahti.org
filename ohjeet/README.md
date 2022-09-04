@@ -43,6 +43,10 @@ Kuivaushuoneet ovat olleet lähes aina vapaita, joten yleensä ei ole ollut tarv
 **Varausta tehdessäsi kirjaa kotinumero, narujen tai tarvitsemasi osuus huoneesta ja oma sukunimesi.** Esimerkiksi `i77, 4 narua, Virtanen` tai `i77, 1/2 huoneesta, Virtanen`.
 :::
 
+::: warning Ohjeistus
+**Jos näet, että Kommuunin tai taloyhtiön sääntöjä on rikottu, ilmoitathan siitä!** Näin voimme antaa opetus- ja oppimistukea niille, ketkä sitä tarvitsevat.
+:::
+
 ### Pesukoneen käyttö ekologisesti
 
 ::: warning Ohjeistus
