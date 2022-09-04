@@ -31,9 +31,17 @@ Kellarissa sijaitsevassa pesuhuoneessa on kaksi pesukonetta. Näitä voi myös k
 
 ### Pyykkien kuivaaminen
 
-Kuivaushuoneet sijaitsevat kellarissa ja niiden käyttö vaatii varauksen. Huoneiden numerot ovat 77, 35, 27 ja 3. Huoneiden 77 ja 3 varauslista löytyvät omista kuivaushuoneistaan, muiden varauslista löytyy pesutuvasta, joka on kellarikäytävän keskikohdalla. Pesutuvassa on kuivausrumpu, linkouskone ja pesukoneet, joita voi käyttää ilmaiseksi. Pesukoneiden käyttö vaatii ajanvarauksen.
+Kuivaushuoneet sijaitsevat kellarissa ja niiden käyttö vaatii varauksen. Huoneiden numerot ovat 77, 35, 27 ja 3. Huoneiden 77 ja 3 varauslista löytyvät omista kuivaushuoneistaan. Muiden varauslista löytyy pesutuvasta, joka on kellarikäytävän keskikohdalla. Pesutuvassa on kuivausrumpu, linkouskone ja pesukoneet, joita voi käyttää ilmaiseksi. Pesukoneiden käyttö vaatii ajanvarauksen.
 
 Kuivaushuoneet ovat olleet lähes aina vapaita, joten yleensä ei ole ollut tarvetta varata etukäteen. Muista kuitenkin varata kuivaushuone, vaikka aikasi alkaakin siitä hetkestä, kun kirjaat varauslistaan.
+
+::: danger Sääntö
+**Kuivaustilojen käyttöön liittyvät ohjeet löytyvät kuivaushuoneiden ovilta. Lue nämä säännöt tarkasti!**
+:::
+
+::: danger Sääntö
+**Varausta tehdessäsi kirjaa kotinumero, narujen tai tarvitsemasi osuus huoneesta ja oma sukunimesi.** Esimerkiksi `i77, 4 narua, Virtanen` tai `i77, 1/2 huoneesta, Virtanen`.
+:::
 
 ### Pesukoneen käyttö ekologisesti
 
