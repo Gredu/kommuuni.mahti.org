@@ -8,11 +8,11 @@ Ohjeistukset ovat sääntöjä lievempiä. Ohjeistuksen rikkomisesta ei seuraa s
 **Täydet kierrätyspisteet ja roskikset viedään eteiseen, josta seuraava ulos lähtijä vie ne jätekatokseen.** Poikkeuksena on bio, jonka kohdalla noudatetaan biovuorolistaa.
 :::
 
-## Muovipussien säilytys
-
-::: warning Ohjeistus
-**Taita muovipussit.**
-:::
+<!-- ## Muovipussien säilytys -->
+<!--  -->
+<!-- ::: warning Ohjeistus -->
+<!-- **Taita muovipussit.** -->
+<!-- ::: -->
 
 ## Ruuan laitto
 

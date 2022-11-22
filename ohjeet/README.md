@@ -2,6 +2,20 @@
 
 Ohjeita arjen askareisiin ja ongelmiin.
 
+## Bio
+
+Biovuoron osoittaa keltainen nappula. Bion vietyäsi siirrä keltainen nappula oikealle pois oman nimesi kohdalta. Jos seuraavalla henkilöllä on musta nappula, poista se ja hyppää hänen yli seuraavaan.
+
+Musta nappula on merkki siitä, että bion on vienyt ei-vuorossa ollut asukas. Jos viet bion kun ei ole vuorosi, laita musta nappula nimesi kohdalle, jolloin seuraavalla vuorollasi sinun ei tarvitse viedä bioo. Mustia nappuloita saa haalia niin paljon kuin haluaa.
+
+Jos bioastia on likaantunut, pese se.
+
+Jos keltaista nappulaa siirtäessä tulee vastaan punainen nappula, hyppää sen yli siirtämättä pois punaista nappulaa. Punainen nappula on merkki siitä, että henkilö on vapautettu biovuorosta. Punaisen nappulan tarkoitus on huomata ne henkilöt, jotka ovat poissa kommuunissa, eivätkä siksi fyysisesti pysty viemään bioastiaa. Jos tiedät olevasi poissa Kommuunista sen verran kauan, että keltainen nappula saattaa osua kohdallesi, laita itsellesi punainen nappula. Ota nappula välittömästä pois, kun palaat!
+
+::: warning Ohjeistus
+**Biopussin koko on 20 litraa.**
+:::
+
 ## Valurautapannun hoito
 
 Yleiset ohjeet valurautapannuille:

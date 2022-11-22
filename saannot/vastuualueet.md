@@ -13,7 +13,7 @@ Roolit:
 ## Märkä- ja kuivatilojen vastaavat
 
 ::: danger Sääntö
-**Rutiinisiivous joka toinen viikko maanantaisin.**
+**Rutiinisiivous joka toinen viikko maanantaisin.** Muista ilmoittaa poikkeuksista!
 :::
 
 Ohjeet rutiinisiivoukseen kirjoitetaan myöhemmin. Näihin kuitenkin opastetaan.
@@ -34,11 +34,11 @@ Rutiinisiivouksesta poikkeavat siivoukset kuuluvat myös hallinnollisia asioita 
 
 jne.
 
-::: danger Sääntö
-**Hallinnollisiin tehtäviin kuuluu Kommuunipankin hoitaminen.**
-:::
+<!-- ::: danger Sääntö -->
+<!-- **Hallinnollisiin tehtäviin kuuluu Kommuunipankin hoitaminen.** -->
+<!-- ::: -->
 
-Kommuunipankki on sopimus. Tästä tarkemmin [sopimuksien sivulta](../sopimukset/README.md).
+Kommuunipankki on sopimus. Lue tarkemmin [sopimuksien sivulta](../sopimukset/README.md).
 
 ## Muita Kommuunin tehtäviä
 
