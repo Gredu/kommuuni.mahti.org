@@ -39,20 +39,20 @@ Toivottavasti nautit olostasi Kommuunissa!
 ## Offboarding
 Heippa ja toivottavasti oli kivaa Kommuunissa!
 
-Vuokrasuhteen päättyttyä huoneisto luovutetaan siivottuna. Jos huonetta ei siivoa, voi vuokranantaja kustantaa ulkopuolisen siivoojan vakuuksista. Olisi myös hyvä, jos yleisissä tiloissa olleet sinulle varatut tilat siivotaan. Nämä ovat seuraavat:
+Vuokrasuhteen päättyttyä huoneisto luovutetaan samassa kunnossa kuin se alun perin vuokrattiin: siistinä ja siivottuna. Jos huonetta ei palauteta alkuperäisessä tilassa, voi vuokranantaja kustantaa ulkopuolisen siivoojan tai huoltomiehen vakuuksista. Olisi myös hyvä, jos yleisissä tiloissa olleet sinulle varatut tilat siivotaan:
   - elintarvikkeille tarkoitettu kuivatila
   - jääkaapissa oleva tila
   - kaikki FFA-tilat mitä olet käyttänyt
 
 ::: danger Sääntö
-**Lopeta kaikki tilaukset Kontulan kiinteistöön.** Lopeta saunavuorot, varastotilan ja autopaikan vuokraaminen. Poista kaikki tulevat pyykinkuivaushuone varaukset.
+**Lopeta kaikki Kontulan kiinteistöön liittyvät tilaukset.** Lopeta saunavuorot, varastotilan ja autopaikan vuokraaminen. Poista kaikki tulevat pyykinkuivaushuone varaukset.
 :::
 
-Näiden lisäksi tarkista myös kaikki FFA-tilat, ettei sinulta jää mitään Kommuuniin. Jos jotain haluat jättää Kommuuniin, tee selkeäksi mitä olet jättämässä. Tämä koskee kaikkia tavaroita mitä aiot jättää. Kommuunin tehtävä ei ole ratkaista pois lähtijöiden roska-ongelmia. Kommuunivetäjien kanssa sovi mitä voidaan jättää, eli mikä on tarpeellista ja mikä turhaa.
+Näiden lisäksi tarkista, ettei sinulta jää mitään Kommuunin FFA-tiloihin. Jos haluat jättää jotain Kommuuniin, kerro selkeästi,mitä olet jättämässä. Tämä koskee kaikkia tavaroita, mitä aiot jättää. Kommuunin tehtävä ei ole ratkaista pois lähtijöiden roska-ongelmia. Sovi kommuunivetäjien kanssa, mitä voidaan jättää, eli mikä on tarpeellista ja mikä turhaa.
 
-Tarkista, ettei varastoon tai suihkuhuoneeseen ole jäänyt mitään. Nämä ovat yleisimmät tilat, minne unohdetaan tavaroita. Kengät olisi syytä myös katsoa, että tulevat mukaan. 
+Tarkista, ettei varastoon tai suihkuhuoneeseen ole jäänyt omaisuuttasi. Näihin unohdetaan tavaroita kaikista eniten. Kengät olisi syytä myös katsoa, että tulevat mukaan. 
 
-*Erään kenkä-inventaarion aikana oli löytynyt 15 kenkäparia, mitkä eivät näyttäneet kuuluvan kenellekään asukkaalle. Suihkusaippuoita on jäänyt hyllyille viideksi vuodeksi. Vielä kolmenkin vuoden päästä on huhuiltu perään unohdettuja tavaroita, joita on sitten löytynyt varastosta.*
+*Erään kenkä-inventaarion aikana oli löytynyt 15 kenkäparia, jotka eivät näyttäneet kuuluvan kenellekään asukkaalle. Suihkusaippuoita on jäänyt hyllyille viideksi vuodeksi. Vielä kolmenkin vuoden päästä on huhuiltu perään unohdettuja tavaroita, joita on sitten löytynyt varastosta.*
 
 ::: danger Sääntö
 **Kontulan Kommuuni ei ole varastopalvelu.** Älä jätä omia tavaroita muiden riesaksi.
@@ -64,7 +64,7 @@ Tarkista, ettei varastoon tai suihkuhuoneeseen ole jäänyt mitään. Nämä ova
 
 *Kommuunissa on ollut tilanteita, missä muutamien kuukausien ajan ollaan skannailtu postit digitaaliseen muotoon kolmelle eri henkilölle.*
 
-Kommuuni lahjoittaa tavaroita pois muuttajalle, mutta vain jos se on sovittu Kommuunin vetäjien kanssa. Älä ota mitään mukaan mitään, mille ei ole annettu erillistä lupaa. Silmäile kuitenkin tavaroita, mitä Kommuunissa on liikaa tai mitä ei käytetä, ja sovi mitä voit viedä mukanasi.
+Kommuuni lahjoittaa tavaroita pois muuttajalle, mutta vain jos se on sovittu kommuuninvetäjien kanssa. Älä ota mitään mukaan ilman erillistä lupaa. Silmäile kuitenkin tavaroita, mitä Kommuunissa on liikaa tai mitä ei käytetä, ja sovi mitä voit viedä mukanasi.
 
 *Kommuunista katoaa paljon tavaroita yleensä pois lähtijän mukana.*
 
