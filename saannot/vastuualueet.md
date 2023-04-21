@@ -13,10 +13,8 @@ Roolit:
 ## Märkä- ja kuivatilojen vastaavat
 
 ::: danger Sääntö
-**Rutiinisiivous joka toinen viikko maanantaisin.** Muista ilmoittaa poikkeuksista!
+**Asukkaalla rutiinisiivous joka toinen viikko maanantaisin.** Muista ilmoittaa poikkeuksista!
 :::
-
-Ohjeet rutiinisiivoukseen kirjoitetaan myöhemmin. Näihin kuitenkin opastetaan.
 
 ## Hallinnolliset ja ylimääräiset tehtävät
 

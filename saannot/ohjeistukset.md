@@ -1,6 +1,6 @@
 # Ohjeistukset
 
-Ohjeistukset ovat sääntöjä lievempiä. Ohjeistuksen rikkomisesta ei seuraa sanktioita, mutta niiden seuraaminen on suositeltavaa. Ohjeistuksien noudattamisella Kommuuni toimii sujuvammin ja työmäärä vähentyy jokaisella.
+Ohjeistukset ovat sääntöjä lievempiä. Ohjeistuksen rikkomisesta ei seuraa sanktioita, mutta niiden seuraaminen on suositeltavaa. Ohjeistuksia noudattamalla Kommuuni toimii sujuvammin ja työmäärä vähentyy jokaisella.
 
 ## Roskat ja kierrätettävät
 
@@ -8,16 +8,10 @@ Ohjeistukset ovat sääntöjä lievempiä. Ohjeistuksen rikkomisesta ei seuraa s
 **Täydet kierrätyspisteet ja roskikset viedään eteiseen, josta seuraava ulos lähtijä vie ne jätekatokseen.** Poikkeuksena on bio, jonka kohdalla noudatetaan biovuorolistaa.
 :::
 
-<!-- ## Muovipussien säilytys -->
-<!--  -->
-<!-- ::: warning Ohjeistus -->
-<!-- **Taita muovipussit.** -->
-<!-- ::: -->
-
 ## Ruuan laitto
 
 ::: warning Ohjeistus
-**Tee ensisijaisesti ruuat tiskin puolella, ei keittiön pöydällä.** Näin pöytä pysyy paremmin siistinä, sillä tiskipuolta on helpompi siivota.
+**Tee ensisijaisesti ruuat tiskin puolella, ei keittiön pöydällä.** Näin pöytä pysyy paremmin siistinä, koska tiskipuolta on helpompi siivota.
 :::
 
 ## Hygienia
