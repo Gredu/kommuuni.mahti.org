@@ -4,7 +4,7 @@ Vuokranantajan ja asukkaiden välisiä sopimuksia.
 
 ## Kommuunipankki
 
-**Kokeilussa tapaa, missä ei pidetä kirjanpitoa.** Tämä sivu tulee päivittää seuravan Workshopin jälkeen, mikä pidetään keskuussa.
+**Kokeilussa tapaa, missä ei pidetä kirjanpitoa.**
 
 Kommuunipankki toimii luottoperiaatteella. Kun tilillä on (-10€ * (asukkaiden määrä)) tai alle, asukkaiden on tasattava se plussan puolelle.
 
@@ -14,8 +14,7 @@ Kirjanpito löytyy [Googlesta](https://docs.google.com/spreadsheets/d/1ENhYNFARd
 **Kommuunipankkiin voi tehdä lahjoituksia.** Tämä on hyvä tapa tasata tilit, jos omatunto sanoo, että on käyttänyt Kommuunin tuotteita enemmän kuin muut.
 :::
 
-Kommuunipankin varoilla ostetaan ainakin seuraavat tavarat:
-
+### Kommuunipankin varoilla ostettavat
   - folio
   - käsisaippua
   - laastarit
@@ -32,6 +31,42 @@ Ruokaan tai eineksiin liittyvät ostokset:
 
 ::: warning Ohjeistus
 **Asukkaat voivat sopia itse, mitä asioita ostetaan yhteisesti Kommuunipankin varoilla**
+:::
+
+### Varaston täydennys
+
+::: danger Sääntö
+**Varaston täydennys tehdään joka kerta, kun uusi asukas muuttaa sisään tai pois.** Pois muuttaja osallistuu näihin maksuihin, mutta sisään muuttaja ei.
+:::
+::: danger Sääntö
+**Ennen varaston täydennystä tehdään ensin hyllytys ja vasta sitten lasketaan varastossa olevat tavarat.**
+:::
+
+| tarvike               | varastossa (min)  |
+|-----------------------|-------------------|
+| Ido wc-rakastin       | 3 pkt. 10 tikkua  |
+| biopussi              |                   |
+| jätekassi             |                   |
+| keittöpuhdistaja      | 2 kpl.            |
+| käsienpesuaine        | 2 pkt.            |
+| pyykinpesujauhe       | 2 pkt.            |
+| siivoussienet         | 1 pkt. 10 sientä* |
+| talouspaperi          | 2 pkt. 16 rullaa* |
+| tiskiaine             | 3 kpl.            |
+| tiskiharjan vaihtopää | 6 kpl.            |
+| vessapaperi           | 2 pkt. 48 rullaa* |
+| wc-puhdistusaine      | 2 kpl.            |
+| yleispuhdistusaine    | 2 kpl             |
+| yleispuhdistusliina   | 2 pkt. 10 liinaa* |
+
+\* yhdessä paketissa
+
+::: warning Ohjeistus
+**Ostettava aina isoimmat mahdolliset paketit, pullot tai tönikät mitä kaupasta löytyy,** tai samassa suhteessa edullisin.
+:::
+
+::: warning Ohjeistus
+**Ostettava keskitason wc-paperia.**
 :::
 
 ## Kommuunille ja arkielämälle tärkeät kodinkoneet ja laitteet
