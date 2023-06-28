@@ -45,10 +45,11 @@ Ruokaan tai eineksiin liittyvät ostokset:
 | tarvike               | varastossa (min)  |
 |-----------------------|-------------------|
 | Ido wc-rakastin       | 3 pkt. 10 tikkua  |
-| biopussi              |                   |
-| jätekassi             |                   |
+| biopussi              | 3 rl. 30 pussia*  |
+| jätekassi             | 3 rl. 30 pussia*  |
 | keittöpuhdistaja      | 2 kpl.            |
 | käsienpesuaine        | 2 pkt.            |
+| muovipussi            | 3 rl. 30 pussia*  |
 | pyykinpesujauhe       | 2 pkt.            |
 | siivoussienet         | 1 pkt. 10 sientä* |
 | talouspaperi          | 2 pkt. 16 rullaa* |
