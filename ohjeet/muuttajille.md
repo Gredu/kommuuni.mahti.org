@@ -22,7 +22,7 @@ Avaa keskustelupinta mahdollisimman pian muiden asukkaiden kanssa. Jos kukaan ei
 **Liity Liity Kommuunin yhteiseen chattikanavaan.**
 :::
 
-::: danger Sääntö
+::: danger Sääntö - VANHA
 **Hanki Google-tunnukset, jotta sinut voidaan liittää Kommuunipankin taloudenpitoon.** Kirjanpito tapahtuu Google-sheetissä.
 :::
 
@@ -30,9 +30,9 @@ Avaa keskustelupinta mahdollisimman pian muiden asukkaiden kanssa. Jos kukaan ei
 **Hanki MobilePay.** Sujuvampaan Kommuunipankin käyttöön.
 :::
 
-Ajattele Kommuunia kommuunia eikä soluna. Jos tarvitset jotain, mieti myös tarvitsevatko muut. Jos tarpeeksi moni samaa asiaa kaipaa, voidaan hankinta kustantaa Kommuunipankista. Tällöin on myös mahdollista ostaa tukkuna alennettuun hintaan.
+Kommuuniasuminen on eri asia kuin solu. Jos tarvitset jotain, mieti myös tarvitsevatko muut. Jos tarpeeksi moni samaa asiaa kaipaa, voidaan hankinta kustantaa Kommuunipankista. Tällöin on myös mahdollista ostaa tukkuna alennettuun hintaan.
 
-Kommuunin asukkaiden määrä voi olla monessa asiassa hyödyllinen. Tästä kannattaa ehdottomasti ottaa kaikki irti! Esimerkiksi suoratoistopalvelujen ja aikakauslehtien yhteistilauksilla voi saada hinnat murto-osaan alkuperäisestä. Joihinkin matkoihin tai retkiin voi saada ryhmäalennuksia. Ruuan laittaminen yhdessä tuo tehokkuutta. Erillisillä ruuanlaittovuoroilla voi saada paljon ajansäästöä.
+Iso asukasmäärä voi olla monessa asiassa hyödyllinen. Tästä kannattaa ehdottomasti ottaa kaikki irti! Esimerkiksi suoratoistopalvelujen ja aikakauslehtien yhteistilauksilla voi saada hinnat murto-osaan alkuperäisestä. Joihinkin matkoihin tai retkiin voi saada ryhmäalennuksia. Ruuan laittaminen yhdessä tuo tehokkuutta. Erillisillä ruuanlaittovuoroilla voi saada paljon ajansäästöä.
 
 Toivottavasti nautit olostasi Kommuunissa!
 
@@ -66,7 +66,7 @@ Tarkista, ettei varastoon tai suihkuhuoneeseen ole jäänyt omaisuuttasi. Näihi
 
 Kommuuni lahjoittaa tavaroita pois muuttajalle, mutta vain jos se on sovittu kommuuninvetäjien kanssa. Älä ota mitään mukaan ilman erillistä lupaa. Silmäile kuitenkin tavaroita, mitä Kommuunissa on liikaa tai mitä ei käytetä, ja sovi mitä voit viedä mukanasi.
 
-*Kommuunista katoaa paljon tavaroita yleensä pois lähtijän mukana.*
+*Kommuunista katoaa paljon tavaroita yleensä pois lähtijöiden mukana.*
 
 ::: danger Sääntö
 **Poistu Kommmuunin ryhmächatista.** Jos et poistu itse, sinut poistetaan ilman varoitusta.

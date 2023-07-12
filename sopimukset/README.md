@@ -33,6 +33,10 @@ Ruokaan tai eineksiin liittyvät ostokset:
 **Asukkaat voivat sopia itse, mitä asioita ostetaan yhteisesti Kommuunipankin varoilla**
 :::
 
+::: danger Sääntö
+**Jos joku asukas ei suostu maksamaan velkojaan, muiden asukkaiden tulisi auttaa tämän velan kuittaamisessa**. Kommuunitavaroiden ostajan ei pitäisi kantaa riskiä yksinään.
+:::
+
 ### Varaston täydennys
 
 ::: danger Sääntö
