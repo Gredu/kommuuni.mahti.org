@@ -48,6 +48,12 @@ Vastuualueisiin liittyy paljon sääntöjä ja ohjeita, jonka takia niistä on [
 **Käytä kuvauskaapeissa ja -astioissa olevia ruokailuvälineitä.** Näin näitä pisteitä ei tarvitse jatkuvasti tyhjennellä ja tilaa on enemmän kuivattamiselle.
 :::
 
+## Olohuone
+
+::: danger Sääntö
+**Olohuoneen pöydälle jätetty eines on kaikkien käytettävissä tai kulutettavissa.** 
+:::
+
 ## Vessa
 
 ::: danger Sääntö
