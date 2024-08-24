@@ -40,29 +40,33 @@ Ruokaan tai eineksiin liittyvät ostokset:
 ### Varaston täydennys
 
 ::: danger Sääntö
-**Varaston täydennys tehdään joka kerta, kun uusi asukas muuttaa sisään tai pois.** Pois muuttaja osallistuu näihin maksuihin, mutta sisään muuttaja ei.
+**Varaston täydennys tehdään uuden asukkaan muuttaessa sisään tai pois.** Pois muuttaja osallistuu näihin maksuihin, mutta sisään muuttaja ei.
 :::
 ::: danger Sääntö
 **Ennen varaston täydennystä tehdään ensin hyllytys ja vasta sitten lasketaan varastossa olevat tavarat.**
 :::
 
+Varastossa on oltava kaksi avaamatonta pakettia.
+
 | tarvike               | varastossa (min)  |
 |-----------------------|-------------------|
-| Ido wc-rakastin       | 3 pkt. 10 tikkua  |
-| biopussi              | 3 rl. 30 pussia*  |
-| jätekassi             | 3 rl. 30 pussia*  |
+| Ido wc-rakastin       | 2 pkt. per vessa  |
+| biopussi              | 2 rl. 30 pussia*  |
+| jätekassi             | 2 rl. 30 pussia*  |
 | keittöpuhdistaja      | 2 kpl.            |
 | käsienpesuaine        | 2 pkt.            |
-| muovipussi            | 3 rl. 30 pussia*  |
+| muovipussi            | 2 rl. 30 pussia*  |
 | pyykinpesujauhe       | 2 pkt.            |
-| siivoussienet         | 1 pkt. 10 sientä* |
+| siivoussienet         | 2 pkt. 10 sientä* |
 | talouspaperi          | 2 pkt. 16 rullaa* |
-| tiskiaine             | 3 kpl.            |
-| tiskiharjan vaihtopää | 6 kpl.            |
+| tiskiaine             | 2 kpl.            |
+| tiskiharjan vaihtopää | 2 kpl.            |
 | vessapaperi           | 2 pkt. 48 rullaa* |
 | wc-puhdistusaine      | 2 kpl.            |
 | yleispuhdistusaine    | 2 kpl             |
 | yleispuhdistusliina   | 2 pkt. 10 liinaa* |
+| voipakettia           | 2 pkt.            |
+| elmukelmua            | 2 pkt.            |
 
 \* yhdessä paketissa
 
