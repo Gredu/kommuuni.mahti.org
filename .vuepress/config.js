@@ -1,52 +1,48 @@
-module.exports = {
+import { viteBundler } from '@vuepress/bundler-vite'
+import { defaultTheme } from '@vuepress/theme-default'
+import { defineUserConfig } from 'vuepress'
+
+export default defineUserConfig({
+  lang: 'fi-FI',
   title: 'Kontulan Kommuuni',
   description: 'Koti kuudelle Kontulan keskiössä jo vuodesta 2014',
-  themeConfig: {
-    nav: [
+
+  // Keep repo docs out of the site
+  pagePatterns: ['**/*.md', '!CLAUDE.md', '!.vuepress', '!node_modules'],
+
+  bundler: viteBundler(),
+
+  theme: defaultTheme({
+    navbar: [
       { text: 'Säännöt', link: '/saannot/' },
       { text: 'Sopimukset', link: '/sopimukset/' },
       { text: 'Ohjeet', link: '/ohjeet/' },
     ],
     sidebar: {
       '/saannot/': [
-        '',
-        'viestinta',
-        'ohjeistukset',
-        'vastuualueet',
+        '/saannot/',
+        '/saannot/viestinta.md',
+        '/saannot/ohjeistukset.md',
+        '/saannot/vastuualueet.md',
       ],
       '/sopimukset/': [
-        '',
-        'valkokangas',
+        '/sopimukset/',
+        '/sopimukset/valkokangas.md',
       ],
       '/ohjeet/': [
-        '',
-        // 'vuorot',
-        // 'juhlien-ja-tapahtumien-pitaminen',
-        'kulttuuri',
-        'muuttajille',
-        'palvelut',
-        'sanakirja',
-        // 'markatilojen-siivous',
-        // 'kuivatilojen-siivous',
+        '/ohjeet/',
+        // '/ohjeet/vuorot.md',
+        // '/ohjeet/juhlien-ja-tapahtumien-pitaminen.md',
+        '/ohjeet/kulttuuri.md',
+        '/ohjeet/muuttajille.md',
+        '/ohjeet/palvelut.md',
+        '/ohjeet/sanakirja.md',
+        // '/ohjeet/markatilojen-siivous.md',
+        // '/ohjeet/kuivatilojen-siivous.md',
       ],
-      '/kokoukset/': [
-        '',
-        '06-2021'
-      ],
-    }
-  },
-
-  head: [
-    ['script', {src: 'https://cdn.jsdelivr.net/npm/chart.js@3.2.1/dist/chart.min.js'}],
-  ],
-
-  plugins: {
-    'git-log': {
-      additionalProps: {
-        subject: '%s',
-        authorEmail: '%ae',
-      },
     },
-
-  }
-}
+    // VuePress 1 showed neither of these; the v2 default theme enables both
+    lastUpdated: false,
+    contributors: false,
+  }),
+})
