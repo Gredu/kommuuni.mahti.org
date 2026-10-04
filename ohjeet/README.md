@@ -32,8 +32,3 @@ Kuivaushuoneet sijaitsevat kellarissa ja niiden käyttö vaatii varauksen. Huone
 ::: danger Sääntö
 **Varausta tehdessäsi kirjaa kotinumero, narujen tai tarvitsemasi osuus huoneesta ja oma sukunimesi.** Esimerkiksi `i77, 4 narua, Virtanen` tai `i77, 1/2 huoneesta, Virtanen`.
 :::
-
-## Kommuunipankin tilitys
-
-  - [Kirjaa ostoksesi](https://docs.google.com/spreadsheets/d/1ENhYNFARda3AuRoAyU0aiXNOS3dr70M4JPPfkL_pwBw/edit?usp=sharing), jos sinulla ei ole oikeuksia muokata dokumenttia, pyydä siihen valtuudet (käytä hinnoissa pistettä pilkun sijaan!)
-  - Lähetä Mobile Payllä maksupyyntö Kommuunipankin ylläpitäjälle kuvan kera (Mobile Pay sovelluksessa voi ottaa kuvan)
