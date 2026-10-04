@@ -5,7 +5,7 @@ Ohjeistukset ovat sääntöjä lievempiä. Ohjeistuksen rikkomisesta ei seuraa s
 ## Roskat ja kierrätettävät
 
 ::: warning Ohjeistus
-**Täydet kierrätyspisteet ja roskikset viedään eteiseen, josta seuraava ulos lähtijä vie ne jätekatokseen.** Poikkeuksena on bio, jonka kohdalla noudatetaan biovuorolistaa.
+**Täydet kierrätyspisteet ja roskikset viedään eteiseen, josta seuraava ulos lähtijä vie ne jätekatokseen.** Poikkeuksena on bio, jolla on omat säännöt.
 :::
 
 ## Ruuan laitto
