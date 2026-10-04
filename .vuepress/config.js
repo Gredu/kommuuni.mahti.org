@@ -1,4 +1,5 @@
 import { viteBundler } from '@vuepress/bundler-vite'
+import { searchPlugin } from '@vuepress/plugin-search'
 import { defaultTheme } from '@vuepress/theme-default'
 import { defineUserConfig } from 'vuepress'
 
@@ -45,4 +46,9 @@ export default defineUserConfig({
     lastUpdated: false,
     contributors: false,
   }),
+
+  plugins: [
+    // Searches page titles and headings; the placeholder picks up Finnish from `lang`
+    searchPlugin(),
+  ],
 })

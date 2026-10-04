@@ -658,6 +658,15 @@
     "@vuepress/highlighter-helper" "2.0.0-rc.135"
     prismjs "^1.30.0"
 
+"@vuepress/plugin-search@2.0.0-rc.137":
+  version "2.0.0-rc.137"
+  resolved "https://registry.npmjs.org/@vuepress/plugin-search/-/plugin-search-2.0.0-rc.137.tgz"
+  integrity sha512-fxCFrbUgOcSVQdbLbykU1ij83b1tVGSygbgfIh3VrwrdiXYBnRJaTOyn0lRYL+7MnIStyf99aW5P8Btv7B6Faw==
+  dependencies:
+    "@vuepress/helper" "2.0.0-rc.135"
+    chokidar "^5.0.0"
+    vue "^3.5.43"
+
 "@vuepress/plugin-seo@2.0.0-rc.137":
   version "2.0.0-rc.137"
   resolved "https://registry.npmjs.org/@vuepress/plugin-seo/-/plugin-seo-2.0.0-rc.137.tgz"

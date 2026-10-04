@@ -1,0 +1,5 @@
+// Put the search box before the navbar links instead of after them
+.vp-navbar-items-wrapper .search-box {
+  order: -1;
+  margin-inline: 0 1rem;
+}

@@ -23,6 +23,7 @@ There are no tests or linters. `npm install` updates both `package-lock.json` an
   - `sopimukset/`: agreements between the landlord and residents (Kommuunipankki, shared purchases, the projector-screen buy-in table)
   - `ohjeet/`: guides
 - The root `README.md` is the VuePress home page (`home: true` frontmatter). It is not repo documentation.
+- Search is `@vuepress/plugin-search`, which matches page titles and headings only, not body text. It is pinned along with the other VuePress packages. `.vuepress/styles/index.scss` (the default theme's user stylesheet) moves the search box before the navbar links.
 - Images go in `.vuepress/public/images/`. Reference them with absolute paths such as `/images/foo.jpg`.
 
 ## Content conventions
