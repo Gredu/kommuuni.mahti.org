@@ -8,13 +8,14 @@ Käytetään MobilePay'n Settlement ominaisuutta. Jokaisen workshopin aikana tas
 
 Jokainen Kommuunin asukas voi tehdä ostoja Kommuunille.
 
-### Kommuunipankin varoilla ostettavat
+### Kommuunipankin varoilla ostettavat tavarat ja einekset
 
   - folio
   - käsisaippua
   - laastarit
+  - haavojen desifiointiainetta
   - tiskiaine
-  - uunipaperi / voipaperi
+  - uunipaperi
   - vessapaperi
   - yleiset pesuaineet
   - yleisten tilojen lamput
@@ -29,16 +30,16 @@ Ruokaan tai eineksiin liittyvät ostokset:
 :::
 
 ::: danger Sääntö
-**Jos joku asukas ei suostu maksamaan velkojaan, muiden asukkaiden tulisi auttaa tämän velan kuittaamisessa**. Kommuunitavaroiden ostajan ei pitäisi kantaa riskiä yksinään.
+**Jos asukas ei suostu maksamaan velkojaan, muiden asukkaiden tulisi auttaa tämän velan kuittaamisessa**. Kommuunitavaroiden ostajan ei pidä kantaa riskiä yksinään.
 :::
 
 ### Varaston täydennys
 
 ::: danger Sääntö
-**Varaston täydennys tehdään uuden asukkaan muuttaessa sisään tai pois.** Pois muuttaja osallistuu näihin maksuihin, mutta sisään muuttaja ei.
+**Varaston täydennys tehdään uuden asukkaan muuttaessa sisään tai pois. Pois muuttaja osallistuu näihin maksuihin, mutta sisään muuttaja ei.** Uusi asukas ikään kuin alkaa puhtaalta pöydältä siten, että varastot ovat täysiä.
 :::
 ::: danger Sääntö
-**Ennen varaston täydennystä tehdään ensin hyllytys ja vasta sitten lasketaan varastossa olevat tavarat.**
+**Ennen varaston täydennystä tehdään ensin hyllytys ja vasta sitten lasketaan varastossa olevat kulutustuotteet.**
 :::
 
 Varastossa on oltava kaksi avaamatonta pakettia.
@@ -66,7 +67,7 @@ Varastossa on oltava kaksi avaamatonta pakettia.
 \* yhdessä paketissa
 
 ::: warning Ohjeistus
-**Ostettava aina isoimmat mahdolliset paketit, pullot tai tönikät mitä kaupasta löytyy,** tai samassa suhteessa edullisin.
+**Ostettava aina isoimmat mahdolliset paketit, pullot tai tönikät mitä kaupasta löytyy** tai samassa suhteessa edullisin.
 :::
 
 ::: warning Ohjeistus
@@ -81,7 +82,7 @@ Kun arkielämälle tärkeä laite hajoaa, vuokranantaja ostaa uuden tilalle. Ark
   - jääkaappi
   - liesi / uuni
   - liesituuletin
-  - modeemi
+  - reititin
   - pakastin
 
 Pesukone ja tiskikone eivät ole Kommuunille tärkeitä laitteita, mutta asukkaat voivat päättää yhdessä, hankitaanko niitä omakustantaisesti. Kiinteistöllä on oma pesutupansa, missä vaatteita ja lakanoita voi pestä ilmaiseksi.
