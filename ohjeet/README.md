@@ -12,14 +12,14 @@ Ohjeita arjen askareisiin ja ongelmiin.
 
 Yleiset ohjeet valurautapannuille:
 
-  - Pese vedellä - voit käyttää myös hieman astianpesuainetta
+  - Tiskaa normaalisti
   - Kuivaa
   - Pyyhi ruokaöljyllä
   - Älä jätä märäksi
   - Älä jätä ruokaa pannuun
   - Älä koskaan liota puhtaaksi
 
-Kommuunissa tämä tarkoittaa sitä, että heti pesun jälkeen valurautapannu on kuivattava kuivauspyyhkeellä. Tämän jälkeen se voidellaan öljyllä, jonka jälkeen valurautapannu laitetaan sille kuuluvaan paikkaan hyllyssä.
+Heti pesun jälkeen valurautapannu on kuivattava kuivauspyyhkeellä. Tämän jälkeen se voidellaan öljyllä.
 
 ## Pyykkien kuivaaminen
 
