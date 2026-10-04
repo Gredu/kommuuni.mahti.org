@@ -6,9 +6,7 @@ module.exports = {
       { text: 'Säännöt', link: '/saannot/' },
       { text: 'Sopimukset', link: '/sopimukset/' },
       { text: 'Ohjeet', link: '/ohjeet/' },
-      // { text: 'Kokoukset', link: '/kokoukset/' },
     ],
-    // sidebar: 'auto'
     sidebar: {
       '/saannot/': [
         '',
