@@ -28,7 +28,6 @@ export default defineUserConfig({
       ],
       '/sopimukset/': [
         '/sopimukset/',
-        '/sopimukset/valkokangas.md',
       ],
       '/ohjeet/': [
         '/ohjeet/',
