@@ -45,6 +45,10 @@ Vuokrasuhteen päättyttyä huoneisto luovutetaan samassa kunnossa kuin se alun 
   - kaikki FFA-tilat mitä olet käyttänyt
 
 ::: danger Sääntö
+**Vakuuksista ei voi maksaa viimeisiä vuokria!**
+:::
+
+::: danger Sääntö
 **Lopeta kaikki Kontulan kiinteistöön liittyvät tilaukset.** Lopeta saunavuorot, varastotilan ja autopaikan vuokraaminen. Poista kaikki tulevat pyykinkuivaushuone varaukset.
 :::
 
