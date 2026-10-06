@@ -1,15 +1,17 @@
 # Kulttuuri
 
 ## Säännöt
-Jokainen kommuunin asukas voi osallistua sääntöjen laatimiseen. Hyvien sääntöjen tuntomerkit:
+Jokainen Kommuunin asukas voi vaikuttaa sääntöihin. Tuntomerkit hyvälle säännölle:
   1. sitä halutaan noudattaa
   2. se on helppo ymmärtää
   3. sitä on helppo valvoa
-  4. säännön olemassaolon tarkoitus perustuu kommuunini tärkeimpiin arvoihin: a) jokaisen tulisi saada tuntea kotirauha ja turva b) jokaisen tulisi saada tuntea reiluutta kommuunin ylläpidossa b) massasääntö (eli onko ok, jos kaikki tekee?)
+  4. säännön olemassaolon tarkoitus perustuu kommuunini tärkeimpiin arvoihin: kotirauha ja reiluus
+
+On muistettava myös, että sääntö päätee silloin jokaiseen, eikä eri sääntöjä eri henkilöille voi asettaa.
 
 Säännöt jotka liittyvät jotenkin asukkaan tapojen muuttamiseen, ovat kaikista vaikeimpia noudatettavia sääntöjä. Vaatii henkistä ponnistusta muuttaa tapojaan. Pääsääntöisesti asukkaan itse pitäisi tämä ponnistus tehdä, ei siten että muut asukkaat muistuttavat siitä jatkuvasti.
 
-Sääntöjen noudattamiseen liittyvä asteita:
+Sääntöjen noudattamiseen liittyviä asteita:
 
 ::: tip OK
 **Asukas hyväksyy säännön ja noudattaa sitä.**
@@ -22,9 +24,9 @@ Tällaiset tilanteet ovat myös hyviä hetkiä kehittää kommuunia. Erimielisyy
 :::
 
 ::: warning ?
-**Asukas ei hyväksy sääntöä, eikä ole valmis sitä noudattamaan.** Tilanteesta riippuen tämä voi olla huono tai hyvä asia. Jos asukkaalla on tiettyjä vakaumuksia mm. kulttuuritaustojen takia tai muiden taustojen takia, pyritään kommuunissa näitä kunnioittamaan. Tavoitteena on päästä yhteisymmärrykseen.
+**Asukas ei hyväksy sääntöä, eikä ole valmis sitä noudattamaan.** Tilanteesta riippuen tämä voi olla huono tai hyvä asia. Jos asukkaalla on tiettyjä vakaumuksia mm. kulttuuritaustojen takia tai muiden taustojen takia, pyritään kommuunissa näitä kunnioittamaan.
 
-Tällaiset asiat pyritään ratkaisemaan haastattelutilanteessa ennen sisään muuttamista.
+Tällaiset asiat pyritään ratkaisemaan jo haastattelutilanteessa ennen sisään muuttamista.
 :::
 
 ::: danger X
@@ -34,20 +36,22 @@ Tällaiset asiat pyritään ratkaisemaan haastattelutilanteessa ennen sisään m
 ## Kuuden voima
 Monet asukkaat asuvat ensi kertaa keskisuuressa kommuunissa. Suurin yllätys on miten kaikki kuluu erittäin nopeasti: kuusinkertaisella nopeudella.
 
-Kuusi asukasta on iso määrä ja sitä tulisi jollain tavalla organisoida. Kolmen hengen kommuunissa tuskin tarvittaisiin sääntöjä.
+ Lisäksi säännöillä on aina kuusin kertainen vaikutus asumiseen. Kannattaa miettiä pahin mahdollinen tapaus. Esimeriksi jos jokainen saa jättää yhden likaisen tiskin yleisiin tiloihin, tarkoittaa se kuutta tiskia pahimmillaan. Tai jos likaiset tiskit saa jättää yleiseen tilaan maksimissaan yhdeksi tunniksi päivän aikana, tarkoittaa se pahimmillaan kuutta tuntia likaisten tiskien olemassa-oloa.
 
-Kuuden voima käytännössä tarkoittaa, että kaikki kuluu kuusi kertaa nopeammin. Pannut, lamput, astiastot, veitset, vessapaperit, tiskiaine, voipaperi jne. kuluvat kaikki kuusi kertaa nopeammin. Kommuuni Pankkia hoidetaan tämän takia yhteisesti. Jos yksi henkilö jatkuvasti ostaa kaikille tarvikkeet, joutuisi hän ravaamaan kaupassa monta kertaa.
+Kolmen hengen kommuunissa tuskin tarvittaisiin sääntöjä, mutta kuuden hengen kodissa se on jo välttämättömyys.
 
-Kuuden voima ei ole pelkkä huono juttu. Kuuden voimalla voi saada esim. yhteisillä aikakauslehtitilauksien hinnat murto-osaan. Isolla porukalla voidaan ostaa tukkuna enemmän ja siten säästää rahaa. Siivousten määrää saadaan vähennettyä, kun siivousvuorot jaetaan tasaisesti.
+Kuuden voima käytännössä tarkoittaa, että kaikki kuluu kuusi kertaa nopeammin. Pannut, lamput, astiastot, veitset, vessapaperit, tiskiaine, voipaperi jne. kuluvat kaikki kuusi kertaa nopeammin. Roska- ja kierrätyspisteet täyttyvät kuusi kertaa nopeammin.
 
-Kuuden voima aiheuttaa myös ns. massasääntöjä.
+Kuuden voima voi olla myös hyvä juttu. Kuuden voimalla voi saada esimerkiksi aikakauslehtitilauksien hinnat murto-osaan, puhumattakaan monista suoratoistopalveluista perhealennuksilla. Isolla porukalla voidaan ostaa tukkuna enemmän ja tuottaa sillä säästöjä. Siivousten määrää saadaan vähennettyä, kun siivousvuorot jaetaan tasaisesti.
+
+Kuuden voima aiheuttaa myös sääntöihin vipuvoimaa. Jos esimeriksi sallitaan juomapullojen pitäminen yleisillä tiloilla, tarkoittaa se kuuden juomapullon lojumista keittiössä tai olohuoneessa.
 
 ::: warning Ohjeistus
-**Yleisperiaatteellisesti aina kun tekee jotain, voi miettiä onko tämä teko haitallinen, jos kaikki muutkin tämän saman asian tekee?** Tästä on seurannut tarkkoja sääntöjä miten tavaroita säilytetään ja missä. Esimerkiksi jos yhden ihmisen annetaan säilyttää polkupyöräänsä olohuoneessa, saisivat silloin kaikki muutkin säilyttää pyöräänsä samassa paikassa. Olohuone ei ole pyörävarasto!
+**Uusi sääntö tarkoittaa, että sitä noudattaa kuusi henkilöä. Mikä on pahin mahdollinen tilanne?** Tästä on seurannut tarkkoja sääntöjä miten tavaroita säilytetään ja missä. Esimerkiksi jos yhden ihmisen annetaan säilyttää polkupyöräänsä olohuoneessa, saisivat silloin kaikki muutkin säilyttää pyöräänsä samassa paikassa, jolloin olohuoneesta tulee.
 
-Esimerkki massasäännöstä on 'likaisten tiskien pitäminen keittiössä' kielto.
+Esimerkiksi 'ei likaisia tiskejä yleisillä tiloilla' sääntö, koska muuten kuuden voimalla yleisistä tiloista tulisi likaisten tiskien säilytyspaika.
 
-Esimerkiksi keittiön pöytä on tämän takia julistettu täysin FFA-alueeksi.
+Esimerkiksi keittiön pöytä on julistettu täysin FFA-alueeksi, koska muuten kaikki säilyttäisivät henkilökohtaisia eineksiä keittiön pöydällä.
 :::
 
 ## Tapahtumat
@@ -56,7 +60,7 @@ Kommuunissa pidetään paljon erilaisia tapahtumia. Omaa arviokykyä ja järkeä
 Tiedetyt tapahtumat:
 
 ### Sauna
-Sauna on torstaisin kello 20:30. Sauna maksaa 18 euroa kuukaudessa ja se jaetaan osallistujien kesken kuukausittain. Holistit ovat tähän tervetulleita ilmaiseksi. Vain yksi kommuunin ulkopuolinen avec on tervetullut. Saunassa käytetään uimavaatteita.
+Viikottainen sauna. Holistit ovat tähän tervetulleita ilmaiseksi. Vain yksi kommuunin ulkopuolinen avec on tervetullut. Saunassa käytetään uimavaatteita.
 
 Saunatiloissa on myös uima-allas.
 
