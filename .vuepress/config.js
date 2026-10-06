@@ -28,6 +28,7 @@ export default defineUserConfig({
       ],
       '/sopimukset/': [
         '/sopimukset/',
+        '/sopimukset/palvelut.md',
       ],
       '/ohjeet/': [
         '/ohjeet/',
@@ -35,7 +36,6 @@ export default defineUserConfig({
         // '/ohjeet/juhlien-ja-tapahtumien-pitaminen.md',
         '/ohjeet/kulttuuri.md',
         '/ohjeet/muuttajille.md',
-        '/ohjeet/palvelut.md',
         '/ohjeet/sanakirja.md',
         // '/ohjeet/markatilojen-siivous.md',
         // '/ohjeet/kuivatilojen-siivous.md',
