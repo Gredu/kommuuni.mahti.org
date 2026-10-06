@@ -78,11 +78,4 @@ Juhlat ovat nyyttärihenkisiä, mutta budjetista iso osa lohkeaa omaan tarjoiluu
 ### Pikkujoulu
 Halloweeniin verrattuna huomattavasti pienemmät juhlat, mutta silti parhaimmillaan on osallistunut n. 20 henkeä.
 
-Välillä pikkujoulua on pidetty ainoastaan kommuunin ja ex-kommuunilaisten kanssa. On vähän auki kummalla tavalla haluttaisiin jatkossa tämä pitää.
-
-## Keittiön pöytä
-FFA tulee sanoista Free For All. Keittiön pöytä on julistettu FFA-alueeksi, eli kaikki saavat kuluttaa pöydällä olevia eineksiä. Näitä tulisi kuitenkin kuluttaa reilusti! Jos jokin tuote tai eines on erittäin halutta, olisi ehkä sitä syytä jättää myös muillekin.
-
-Jos jokin eines tai tavara on FFA, sen käyttöä ei saisi estää esimerkiksi viemällä se omaan huoneeseensa tai omille privaattihyllyille.
-
-Pääsääntöisesti pöydällä olevien einesten kuluttaminen tulisi tapahtua keittiössä. Jos näitä ei kuitenkaan tunnu kukaan muu kuluttavan tai niitä on paljon, voi sitten viedä omaan huoneeseensa.
+Välillä pikkujoulua on pidetty ainoastaan kommuunin ja ex-kommuunilaisten kanssa. Tämä on ollut vaihtelevaa.
