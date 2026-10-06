@@ -26,11 +26,17 @@ Toissijaisia arvoja ovat hyvät elämäntavat, hygienia, estetiikka, yhteisö ja
 **Jokaisella Kommuunin asukkaalla on [vastuualueensa Kommuunissa](vastuualueet.md).** Vastuualueisiin liittyy tehtäviä ja vastuuta. Jokaisen asukkaan odotetaan suoriutuvan vastuualueistaan vähintäänkin siedettävästi.
 :::
 
-## Tavaroiden säilytys
+## Tavaroiden säilytys ja käyttö yleisillä tiloilla
 
 ::: danger Sääntö
-**Yleisillä tiloilla ei saa varastoida tavaraa.** Eteinen voi toimia väliaikaisena varastona.
+**Yleisillä tiloilla ei saa varastoida tavaraa. Eteinen voi toimia väliaikaisena varastona.**
 :::
+
+::: danger Sääntö
+**Yleisten tilojen käyttötavaroiden on toteutettava kaksi ehtoa: kaikki saavat käyttää ja vähintään kaksi henkilöä käyttää säännöllisesti.**
+:::
+
+Sisustuselementteihin eivät nämä säännöt päde.
 
 ## Keittiö
 
