@@ -49,7 +49,7 @@ Vuokrasuhteen päättyttyä huoneisto luovutetaan samassa kunnossa kuin se alun 
 :::
 
 ::: danger Sääntö
-**Lopeta kaikki Kontulan kiinteistöön liittyvät tilaukset.** Lopeta saunavuorot, varastotilan ja autopaikan vuokraaminen. Poista kaikki tulevat pyykinkuivaushuone varaukset.
+**Lopeta kaikki Kontulan kiinteistöön liittyvät tilaukset.** Lopeta saunavuorot, varastotilan ja autopaikan vuokraaminen. Ilmoita kiinteistöhuollolle, että et enää asu kiinteistössä. Poista kaikki tulevat pyykinkuivaushuone varaukset.
 :::
 
 Näiden lisäksi tarkista, ettei sinulta jää mitään Kommuunin FFA-tiloihin. Jos haluat jättää jotain Kommuuniin, kerro selkeästi,mitä olet jättämässä. Tämä koskee kaikkia tavaroita, mitä aiot jättää. Kommuunin tehtävä ei ole ratkaista pois lähtijöiden roska-ongelmia. Sovi kommuunivetäjien kanssa, mitä voidaan jättää, eli mikä on tarpeellista ja mikä turhaa.
