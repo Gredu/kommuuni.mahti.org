@@ -36,7 +36,7 @@ Ruokaan tai eineksiin liittyvät ostokset:
 ### Varaston täydennys
 
 ::: danger Sääntö
-**Varaston täydennys tehdään uuden asukkaan muuttaessa sisään tai pois. Pois muuttaja osallistuu näihin maksuihin, mutta sisään muuttaja ei.** Uusi asukas ikään kuin alkaa puhtaalta pöydältä siten, että varastot ovat täysiä.
+**Varaston täydennys tehdään uuden asukkaan muuttaessa sisään tai pois. Pois muuttaja osallistuu näihin maksuihin, mutta sisään muuttaja ei.** Uusi asukas aloittaa puhtaalta pöydältä siten, että varastot ovat täysiä.
 :::
 ::: danger Sääntö
 **Ennen varaston täydennystä tehdään ensin hyllytys ja vasta sitten lasketaan varastossa olevat kulutustuotteet.**
