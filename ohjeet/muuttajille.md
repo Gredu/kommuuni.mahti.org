@@ -22,8 +22,8 @@ Avaa keskustelupinta mahdollisimman pian muiden asukkaiden kanssa. Jos kukaan ei
 **Liity Liity Kommuunin yhteiseen chattikanavaan.**
 :::
 
-::: danger Sääntö - VANHA
-**Hanki Google-tunnukset, jotta sinut voidaan liittää Kommuunipankin taloudenpitoon.** Kirjanpito tapahtuu Google-sheetissä.
+::: danger Sääntö
+**Ilmoita ja rekisteröi itsesi asukkaaksi Kontulan Huollossa.** Saat kiinteistöön kuuluvia palveluja, esim. autopaikka, sauna, varasto jne.
 :::
 
 ::: danger Sääntö
