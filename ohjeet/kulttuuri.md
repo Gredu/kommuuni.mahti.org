@@ -67,6 +67,8 @@ Kommuuni on kesäisin melko usein grillaillut yhdessä. Kaasu tai hiilet jaetaan
 Talvella Kivikon metsässä paistellaan nuotiolla. Yksi avec tervetullut. Kaikkien kanssa jaetaan tasan polttopuukulut.
 
 ### Halloween
+**Halloween ei enää kuulu Kommuunin juhliin.**
+
 Halloween on Kommuuniin isoin juhla. Parhaimmillaan tänne on tullut yhteensä 50 vierasta. Budjetti on ollut korkeimmillaan n. 500 euroa. Pääsääntöisesti kommuuniin jäsenet järjestävät tämän juhlan pienellä avustuksella kommuunin ulkopuolelta. Taloudellista avustusta saattaa tulla myös ulkopuolelta.
 
 Yleensä maksajat ovat olleet ne, keiden kavereita on tullut kaikista eniten.
